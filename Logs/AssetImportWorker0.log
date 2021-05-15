@@ -146,3 +146,227 @@ System memory in use after: 103.8 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3005.
 Total: 3.250082 ms (FindLiveObjects: 0.249232 ms CreateObjectMapping: 0.090618 ms MarkObjects: 2.829367 ms  DeleteObjects: 0.079875 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1461.099055 seconds.
+  path: Assets/My Scenes/In Use/SensorToolkit/Examples/Stealth/resources/Player.prefab
+  artifactKey: Guid(682850bec93b0d940a2235a942d1b0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Scenes/In Use/SensorToolkit/Examples/Stealth/resources/Player.prefab using Guid(682850bec93b0d940a2235a942d1b0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2703d569e3efe213e159400ac2a1dd5') in 0.062952 seconds
+  Import took 0.069911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/PolygonPrototype/Prefabs/Icons/SM_Icon_Player_01.prefab
+  artifactKey: Guid(6883331e3d333ee448be2c18429d0d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPrototype/Prefabs/Icons/SM_Icon_Player_01.prefab using Guid(6883331e3d333ee448be2c18429d0d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3bfa939a2a65a3843b2e1050d4a27a') in 0.008457 seconds
+  Import took 0.011906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/PolygonPrototype/Models/SM_Icon_Player_01.fbx
+  artifactKey: Guid(ce846e277ece4ba4bbfc73a2eddc01fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPrototype/Models/SM_Icon_Player_01.fbx using Guid(ce846e277ece4ba4bbfc73a2eddc01fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e960994871ca5d429fbeeb40f18459c') in 0.027762 seconds
+  Import took 0.031382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/My Scenes/In Use/SensorToolkit/Examples/Stealth/resources/PlayerShip.prefab
+  artifactKey: Guid(55f9f825fbff04e48bc607b8baa3c360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Scenes/In Use/SensorToolkit/Examples/Stealth/resources/PlayerShip.prefab using Guid(55f9f825fbff04e48bc607b8baa3c360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c382723884bb638cfba7ed353ff601') in 0.013704 seconds
+  Import took 0.017418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.096658 seconds.
+  path: Assets/Hovl Studio/PBR Fantasy staff/Materials/StaffAnimAlpha.mat
+  artifactKey: Guid(a8dfeaef0f86edd469f68af887c817f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/PBR Fantasy staff/Materials/StaffAnimAlpha.mat using Guid(a8dfeaef0f86edd469f68af887c817f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df52f90ca44f259f94322371863355f0') in 0.036403 seconds
+  Import took 0.042068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Hovl Studio/PBR Fantasy staff/Textures/StaffAnimAlpha.png
+  artifactKey: Guid(f09eda11bc2575d409993a0e31b5869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/PBR Fantasy staff/Textures/StaffAnimAlpha.png using Guid(f09eda11bc2575d409993a0e31b5869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e265334ddbe474b3167a5dbb5bdf12') in 0.016613 seconds
+  Import took 0.020120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.828348 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M
+  artifactKey: Guid(e69204139e5e67848abcee1d5f6dc72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M using Guid(e69204139e5e67848abcee1d5f6dc72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f524e0ec5d2f68e4b9c01342ca4cacaa') in 0.000701 seconds
+  Import took 0.004454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M
+  artifactKey: Guid(e69204139e5e67848abcee1d5f6dc72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M using Guid(e69204139e5e67848abcee1d5f6dc72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f524e0ec5d2f68e4b9c01342ca4cacaa') in 0.000622 seconds
+  Import took 0.003863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048918 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/bear.fbx
+  artifactKey: Guid(25644fdb850987743b9d4d04e6a9b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/bear.fbx using Guid(25644fdb850987743b9d4d04e6a9b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69464dc416bdbca38c439cca9d38c2ce') in 0.015145 seconds
+  Import took 0.018881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/deer.fbx
+  artifactKey: Guid(74862de65fd917143b84d14bcee8f513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/deer.fbx using Guid(74862de65fd917143b84d14bcee8f513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc231768e007c0971ea57ee25f678173') in 0.014698 seconds
+  Import took 0.018089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/butterfly.fbx
+  artifactKey: Guid(d969a372aa558492aa5403181e28d68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/butterfly.fbx using Guid(d969a372aa558492aa5403181e28d68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d95dccdd40e660de5dd28ee295c93ca') in 0.011145 seconds
+  Import took 0.014854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/rat.fbx
+  artifactKey: Guid(448a586e3aa3e49f187fcf06bdfd5f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/rat.fbx using Guid(448a586e3aa3e49f187fcf06bdfd5f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3885b6e93b521ff4d0179f2ffffb29') in 0.012127 seconds
+  Import took 0.015728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/penguin.fbx
+  artifactKey: Guid(4a77052d70afa2041b8440dee8b1cfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/penguin.fbx using Guid(4a77052d70afa2041b8440dee8b1cfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce33d608257cd2c33cc0a389a4323331') in 0.013624 seconds
+  Import took 0.017219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/starfish.fbx
+  artifactKey: Guid(7bd63f1d5fd739949a60543acc31bacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/starfish.fbx using Guid(7bd63f1d5fd739949a60543acc31bacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa768b2657ecb69b78862415bb2614fd') in 0.012228 seconds
+  Import took 0.015683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/dog.fbx
+  artifactKey: Guid(c9d80afc5a1d246d89f0d9de570ee9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/dog.fbx using Guid(c9d80afc5a1d246d89f0d9de570ee9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5f8b2461277f456c1523d3bd09015d') in 0.010278 seconds
+  Import took 0.013612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/fish-swarm.fbx
+  artifactKey: Guid(3372a944636db3e4f9d0c5e640931300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/fish-swarm.fbx using Guid(3372a944636db3e4f9d0c5e640931300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8c03fe4af380c35999269f11406531') in 0.009959 seconds
+  Import took 0.013281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/horse.fbx
+  artifactKey: Guid(06e01e951fbe6ad48882e35656d6d4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/horse.fbx using Guid(06e01e951fbe6ad48882e35656d6d4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb15a9161295180ebea59c700825b5d') in 0.013220 seconds
+  Import took 0.016824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/spider.fbx
+  artifactKey: Guid(9aff00d95b58f46b484f744cc83594f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/spider.fbx using Guid(9aff00d95b58f46b484f744cc83594f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f168a1d54ce2939bf5ec833bd3fc17f') in 0.010097 seconds
+  Import took 0.013537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/fish.fbx
+  artifactKey: Guid(b8f91d327cd5c8346b4b495778973adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/fish.fbx using Guid(b8f91d327cd5c8346b4b495778973adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01a45e0679c0a529633881c77872257') in 0.009791 seconds
+  Import took 0.013206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/pigeon.fbx
+  artifactKey: Guid(52630304ddc96cb4c8dc150e2f3ed89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/pigeon.fbx using Guid(52630304ddc96cb4c8dc150e2f3ed89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c68b202207378f364255fb57eaa25f3') in 0.013490 seconds
+  Import took 0.017275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/stegosaurus.fbx
+  artifactKey: Guid(5620a0d76faf140bea24fa51c4672686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/stegosaurus.fbx using Guid(5620a0d76faf140bea24fa51c4672686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ded9563082d8e87400a8463e56d5edd') in 0.015315 seconds
+  Import took 0.018813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/cow.fbx
+  artifactKey: Guid(2f78d31d754f1a24c85deaad007162a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/cow.fbx using Guid(2f78d31d754f1a24c85deaad007162a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5a6b81af0e02d2f8b618a722401a73') in 0.011121 seconds
+  Import took 0.014647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/shark.fbx
+  artifactKey: Guid(93e9783ecb094204fa83c679aca10561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/shark.fbx using Guid(93e9783ecb094204fa83c679aca10561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883ba07c67d25a8c21b70fe3ec273343') in 0.013112 seconds
+  Import took 0.016823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/seagull.fbx
+  artifactKey: Guid(21afbc3e55fb86b48b46caaf6e6410a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/seagull.fbx using Guid(21afbc3e55fb86b48b46caaf6e6410a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f7586dcaa1709024a97c02cab9bee') in 0.011550 seconds
+  Import took 0.015111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/elephant.fbx
+  artifactKey: Guid(cdf41627a7890bb4999c353e3e00d913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/elephant.fbx using Guid(cdf41627a7890bb4999c353e3e00d913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d9b035c58075a78dad4742f4941741f') in 0.011123 seconds
+  Import took 0.014633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/snake.fbx
+  artifactKey: Guid(60b67e9cf675ff44ab76f8a2c749e391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/snake.fbx using Guid(60b67e9cf675ff44ab76f8a2c749e391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57618cd350499c9475d56e1d2c9da6c3') in 0.009987 seconds
+  Import took 0.013447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/t-rex.fbx
+  artifactKey: Guid(4c61063d9c6dc4f2fb7fec8e7fb8ed34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/t-rex.fbx using Guid(4c61063d9c6dc4f2fb7fec8e7fb8ed34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04cd55b3e22d12172c21e71a8d18e5b5') in 0.009544 seconds
+  Import took 0.012924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/wolf.fbx
+  artifactKey: Guid(71e28c920a3a85645afeaf363d1e080b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/wolf.fbx using Guid(71e28c920a3a85645afeaf363d1e080b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2a3d23550d6be933fd544d527e1881') in 0.012108 seconds
+  Import took 0.015599 seconds .
+
